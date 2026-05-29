@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bp-sf-t3-1779642675702-144.netlify.app/sitemap.xml
